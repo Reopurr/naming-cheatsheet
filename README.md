@@ -7,7 +7,7 @@
 # Naming cheatsheet
 
 - [English language](#1111111)
-- [Naming convention](#naming-convention)
+- [Naming convention](#naming)
 - [S-I-D](#s-i-d)
 - [Avoid contractions](#avoid-contractions)
 - [Avoid context duplication](#avoid-context-duplication)
