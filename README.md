@@ -6,7 +6,7 @@
 
 # Naming cheatsheet
 
-- [English language](#english-language)
+- [English language]
 - [Naming convention](#naming-convention)
 - [S-I-D](#s-i-d)
 - [Avoid contractions](#avoid-contractions)
