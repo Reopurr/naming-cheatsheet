@@ -8,7 +8,7 @@
 
 - [English language](#1111111)
 - [Naming convention](#gaming)
-- [S-I-D](#s-i-d)
+- [S-I-D](#sid - VIP)
 - [Avoid contractions](#avoid-contractions)
 - [Avoid context duplication](#avoid-context-duplication)
 - [Reflect the expected result](#reflect-the-expected-result)
